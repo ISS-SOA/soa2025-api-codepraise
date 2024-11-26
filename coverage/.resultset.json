@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/require_app.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/require_app.rb": {
         "lines": [
           null,
           null,
@@ -16,12 +16,12 @@
           1,
           null,
           1,
-          53,
+          54,
           null,
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/config/environment.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/config/environment.rb": {
         "lines": [
           null,
           null,
@@ -86,7 +86,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/entities/contributor.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/entities/contributor.rb": {
         "lines": [
           null,
           null,
@@ -104,7 +104,7 @@
           null,
           null,
           1,
-          9862,
+          7564,
           null,
           null,
           null,
@@ -112,14 +112,14 @@
           null,
           null,
           1,
-          6996,
+          6955,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/entities/file_contributions.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/entities/file_contributions.rb": {
         "lines": [
           null,
           null,
@@ -134,6 +134,8 @@
           null,
           null,
           1,
+          null,
+          null,
           null,
           null,
           null,
@@ -159,9 +161,9 @@
           1,
           724,
           null,
-          601,
+          711,
           null,
-          4697,
+          5360,
           null,
           null,
           null,
@@ -183,7 +185,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/lib/contributions_calculator.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/lib/contributions_calculator.rb": {
         "lines": [
           null,
           null,
@@ -217,7 +219,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/values/code_language.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/values/code_language.rb": {
         "lines": [
           null,
           null,
@@ -240,7 +242,7 @@
           null,
           null,
           1,
-          11207,
+          11870,
           null,
           null,
           null,
@@ -324,7 +326,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/entities/folder_contributions.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/entities/folder_contributions.rb": {
         "lines": [
           null,
           null,
@@ -366,7 +368,7 @@
           null,
           null,
           1,
-          58,
+          60,
           null,
           null,
           1,
@@ -409,7 +411,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/contributions/entities/line_contribution.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/entities/line_contribution.rb": {
         "lines": [
           null,
           null,
@@ -435,14 +437,14 @@
           null,
           null,
           1,
-          11219,
+          11882,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/contributions/lib/types.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/lib/types.rb": {
         "lines": [
           null,
           null,
@@ -458,14 +460,69 @@
           null,
           1,
           1,
-          2236,
+          1876,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/contributions/values/credit_share.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/values/contributors.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          362,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          362,
+          362,
+          null,
+          362,
+          null,
+          1103,
+          1103,
+          null,
+          1103,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          1103,
+          null,
+          86,
+          86,
+          86,
+          null,
+          null,
+          1017,
+          1017,
+          1017,
+          null,
+          null,
+          null,
+          362,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/values/credit_share.rb": {
         "lines": [
           null,
           null,
@@ -478,25 +535,25 @@
           1,
           null,
           1,
-          645,
-          645,
+          565,
+          565,
           null,
           null,
           null,
           1,
-          16,
+          0,
           null,
           null,
           1,
-          4,
+          0,
           null,
           null,
           1,
-          4,
+          0,
           null,
           null,
           1,
-          2,
+          0,
           null,
           null,
           1,
@@ -510,23 +567,25 @@
           null,
           null,
           1,
-          5636,
-          5636,
-          5636,
+          6377,
+          6377,
+          6377,
+          6377,
           null,
           null,
           1,
-          983,
-          1080,
-          362,
-          1301,
-          null,
           362,
           null,
-          939,
           null,
           null,
+          362,
+          446,
           null,
+          null,
+          362,
+          1017,
+          2120,
+          1017,
           null,
           null,
           null,
@@ -536,13 +595,13 @@
           null,
           null,
           1,
-          1881,
+          3,
           null,
           null,
           1,
           null,
           1,
-          16533,
+          13326,
           null,
           null,
           null,
@@ -560,7 +619,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/contributions/values/file_path.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/contributions/values/file_path.rb": {
         "lines": [
           null,
           null,
@@ -609,7 +668,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/projects/entities/member.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/projects/entities/member.rb": {
         "lines": [
           null,
           null,
@@ -635,7 +694,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/domain/projects/entities/project.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/domain/projects/entities/project.rb": {
         "lines": [
           null,
           null,
@@ -678,7 +737,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/database/orm/member_orm.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/database/orm/member_orm.rb": {
         "lines": [
           null,
           null,
@@ -707,7 +766,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/database/orm/project_orm.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/database/orm/project_orm.rb": {
         "lines": [
           null,
           null,
@@ -731,7 +790,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/database/repositories/for.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/database/repositories/for.rb": {
         "lines": [
           null,
           null,
@@ -759,7 +818,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/database/repositories/members.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/database/repositories/members.rb": {
         "lines": [
           null,
           null,
@@ -800,7 +859,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/entities/line_contribution.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/database/repositories/projects.rb": {
         "lines": [
           null,
           null,
@@ -893,7 +952,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/lib/types.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/gateway/git_command.rb": {
         "lines": [
           null,
           null,
@@ -921,11 +980,10 @@
           195,
           195,
           null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/values/credit_share.rb": {
-        "lines": [
+          null,
+          1,
+          195,
+          195,
           null,
           null,
           1,
@@ -963,7 +1021,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/git/mappers/blame_contributor.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/mappers/blame_contributor.rb": {
         "lines": [
           null,
           null,
@@ -994,7 +1052,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/git/mappers/contributions_mapper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/mappers/contributions_mapper.rb": {
         "lines": [
           null,
           null,
@@ -1035,7 +1093,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/contributions/values/file_path.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/mappers/file_contributions_mapper.rb": {
         "lines": [
           null,
           null,
@@ -1106,7 +1164,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/git/mappers/folder_contributions_mapper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/mappers/folder_contributions_mapper.rb": {
         "lines": [
           null,
           null,
@@ -1141,7 +1199,102 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/projects/entities/member.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/mappers/porcelain_parser.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          194,
+          5372,
+          null,
+          null,
+          1,
+          194,
+          194,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          5372,
+          null,
+          5372,
+          null,
+          null,
+          null,
+          5372,
+          57020,
+          57020,
+          null,
+          null,
+          5372,
+          null,
+          null,
+          1,
+          5372,
+          5372,
+          5372,
+          null,
+          null,
+          1,
+          57020,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/repositories/blame_reporter.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          6,
+          6,
+          6,
+          null,
+          null,
+          1,
+          6,
+          null,
+          5,
+          5,
+          194,
+          null,
+          null,
+          null,
+          null,
+          1,
+          11,
+          6,
+          3,
+          null,
+          189,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/repositories/repo_file.rb": {
         "lines": [
           null,
           null,
@@ -1166,7 +1319,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/domain/projects/entities/project.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/repositories/git_repo.rb": {
         "lines": [
           null,
           null,
@@ -1209,7 +1362,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/git/repositories/local_repo.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/repositories/local_repo.rb": {
         "lines": [
           null,
           null,
@@ -1279,7 +1432,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/git/repositories/remote_repo.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/git/repositories/remote_repo.rb": {
         "lines": [
           null,
           null,
@@ -1316,7 +1469,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/github/gateways/github_api.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/github/gateways/github_api.rb": {
         "lines": [
           null,
           null,
@@ -1327,11 +1480,15 @@
           null,
           1,
           1,
+          null,
+          1,
           49,
           null,
           null,
           1,
           27,
+          null,
+          null,
           null,
           null,
           1,
@@ -1341,13 +1498,19 @@
           null,
           1,
           1,
-          null,
-          1,
-          49,
+          27,
+          27,
           null,
           null,
           1,
           27,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          49,
           null,
           null,
           1,
@@ -1385,7 +1548,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/github/mappers/member_mapper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/github/mappers/member_mapper.rb": {
         "lines": [
           null,
           null,
@@ -1444,7 +1607,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/infrastructure/github/mappers/project_mapper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/infrastructure/github/mappers/project_mapper.rb": {
         "lines": [
           null,
           null,
@@ -1524,7 +1687,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/contributor_representer.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/contributor_representer.rb": {
         "lines": [
           null,
           null,
@@ -1544,7 +1707,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/credit_share_representer.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/credit_share_representer.rb": {
         "lines": [
           null,
           null,
@@ -1568,85 +1731,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/file_contributions_representer.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/file_path_representer.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/line_contribution_representer.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/folder_contributions_representer.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/file_contributions_representer.rb": {
         "lines": [
           null,
           null,
@@ -1670,6 +1755,51 @@
           1,
           1,
           1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/file_path_representer.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/line_contribution_representer.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
           1,
           1,
           1,
@@ -1679,7 +1809,40 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/representers/http_response_representer.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/folder_contributions_representer.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/http_response_representer.rb": {
         "lines": [
           null,
           null,
@@ -1722,7 +1885,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/database/orm/member_orm.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/member_representer.rb": {
         "lines": [
           null,
           null,
@@ -1734,26 +1897,6 @@
           null,
           null,
           null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          36,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/database/orm/project_orm.rb": {
-        "lines": [
-          null,
-          null,
-          1,
           null,
           1,
           1,
@@ -1766,7 +1909,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/database/repositories/for.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/openstruct_with_links.rb": {
         "lines": [
           null,
           null,
@@ -1782,7 +1925,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/database/repositories/members.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/project_folder_contributions_representer.rb": {
         "lines": [
           null,
           null,
@@ -1806,1021 +1949,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/database/repositories/projects.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          7,
-          null,
-          null,
-          null,
-          null,
-          7,
-          null,
-          null,
-          1,
-          3,
-          2,
-          2,
-          null,
-          null,
-          null,
-          1,
-          9,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          1,
-          9,
-          9,
-          null,
-          null,
-          1,
-          9,
-          null,
-          9,
-          9,
-          null,
-          null,
-          1,
-          25,
-          null,
-          12,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          9,
-          null,
-          null,
-          1,
-          9,
-          null,
-          null,
-          1,
-          9,
-          null,
-          9,
-          9,
-          null,
-          9,
-          27,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/gateway/git_command.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          129,
-          129,
-          129,
-          129,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          128,
-          128,
-          128,
-          null,
-          null,
-          1,
-          128,
-          128,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          258,
-          null,
-          null,
-          1,
-          129,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          127,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/mappers/blame_contributor.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          3442,
-          3442,
-          null,
-          null,
-          1,
-          3442,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          3442,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/mappers/contributions_mapper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          3,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          3,
-          127,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          127,
-          127,
-          127,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/mappers/file_contributions_mapper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          127,
-          null,
-          null,
-          1,
-          127,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          254,
-          null,
-          null,
-          1,
-          3442,
-          null,
-          null,
-          1,
-          127,
-          null,
-          null,
-          1,
-          127,
-          3442,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          3442,
-          3442,
-          3442,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          3442,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          3442,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/mappers/folder_contributions_mapper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          3,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          3,
-          127,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/mappers/porcelain_parser.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          127,
-          3442,
-          null,
-          null,
-          1,
-          127,
-          127,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          3442,
-          null,
-          3442,
-          null,
-          null,
-          null,
-          3442,
-          36525,
-          36525,
-          null,
-          null,
-          3442,
-          null,
-          null,
-          1,
-          3442,
-          3442,
-          3442,
-          null,
-          null,
-          1,
-          36525,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/repositories/blame_reporter.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          3,
-          3,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          3,
-          3,
-          127,
-          null,
-          null,
-          null,
-          null,
-          1,
-          192,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/repositories/repo_file.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          127,
-          null,
-          null,
-          1,
-          127,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/repositories/git_repo.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          3,
-          3,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          6,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/repositories/local_repo.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          3,
-          3,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          1,
-          3,
-          null,
-          3,
-          3,
-          276,
-          null,
-          null,
-          null,
-          null,
-          1,
-          6,
-          12,
-          null,
-          null,
-          1,
-          15,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          null,
-          1,
-          9,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/git/repositories/remote_repo.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/github/gateways/github_api.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          39,
-          null,
-          null,
-          1,
-          21,
-          null,
-          null,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          null,
-          1,
-          1,
-          21,
-          21,
-          null,
-          null,
-          1,
-          21,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          39,
-          null,
-          null,
-          1,
-          39,
-          null,
-          null,
-          null,
-          null,
-          38,
-          38,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          38,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/github/mappers/member_mapper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          18,
-          18,
-          18,
-          null,
-          null,
-          1,
-          18,
-          54,
-          null,
-          null,
-          null,
-          1,
-          72,
-          null,
-          null,
-          null,
-          1,
-          1,
-          72,
-          null,
-          null,
-          1,
-          72,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          72,
-          null,
-          null,
-          1,
-          72,
-          null,
-          null,
-          1,
-          72,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/infrastructure/github/mappers/project_mapper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          21,
-          21,
-          21,
-          null,
-          null,
-          1,
-          21,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          null,
-          1,
-          1,
-          18,
-          18,
-          null,
-          null,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          1,
-          18,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/presentation/view_objects/contributor.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/presentation/view_objects/project.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          0,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/presentation/view_objects/project_file_contributions.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/presentation/view_objects/project_folder_contributions.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          0,
-          0,
-          0,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/presentation/view_objects/projects_list.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/controllers/app.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/project_representer.rb": {
         "lines": [
           null,
           null,
@@ -2849,135 +1978,13 @@
           1,
           null,
           1,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          null,
-          0,
-          null,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          null,
-          0,
-          null,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
-          0,
-          0,
-          null,
-          null,
-          null,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/controllers/helpers.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
+          4,
           null,
           null,
           1,
           null,
           1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/forms/new_project.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
+          4,
           null,
           null,
           1,
@@ -2988,7 +1995,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/services/add_project.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/representers/projects_representer.rb": {
         "lines": [
           null,
           null,
@@ -3011,7 +2018,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/responses/api_result.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/responses/api_result.rb": {
         "lines": [
           null,
           null,
@@ -3040,7 +2047,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/responses/project_folder_contributions.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/responses/project_folder_contributions.rb": {
         "lines": [
           null,
           null,
@@ -3052,7 +2059,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/presentation/responses/projects_list.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/presentation/responses/projects_list.rb": {
         "lines": [
           null,
           null,
@@ -3064,7 +2071,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/controllers/app.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/controllers/app.rb": {
         "lines": [
           null,
           null,
@@ -3159,7 +2166,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/controllers/helpers.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/controllers/helpers.rb": {
         "lines": [
           null,
           null,
@@ -3188,7 +2195,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/requests/project_list.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/requests/project_list.rb": {
         "lines": [
           null,
           null,
@@ -3240,7 +2247,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/requests/project_request_path.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/requests/project_request_path.rb": {
         "lines": [
           null,
           null,
@@ -3269,7 +2276,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/services/add_project.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/services/add_project.rb": {
         "lines": [
           null,
           null,
@@ -3333,7 +2340,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/services/appraise_project.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/services/appraise_project.rb": {
         "lines": [
           null,
           null,
@@ -3403,7 +2410,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/app/application/services/list_projects.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/app/application/services/list_projects.rb": {
         "lines": [
           null,
           null,
@@ -3447,7 +2454,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/spec/helpers/vcr_helper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/helpers/vcr_helper.rb": {
         "lines": [
           null,
           null,
@@ -3470,8 +2477,8 @@
           null,
           1,
           29,
-          1864,
-          1864,
+          1874,
+          1874,
           null,
           null,
           29,
@@ -3488,7 +2495,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/spec/helpers/database_helper.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/helpers/database_helper.rb": {
         "lines": [
           null,
           null,
@@ -3505,7 +2512,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/spec/tests/integration/layers/domain_contributions_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/layers/domain_contributions_spec.rb": {
         "lines": [
           null,
           null,
@@ -3544,8 +2551,14 @@
           1,
           1,
           null,
+          null,
           1,
           null,
+          null,
+          1,
+          null,
+          null,
+          1,
           null,
           null,
           null,
@@ -3569,90 +2582,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/app/application/services/list_projects.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          3,
-          null,
-          null,
-          3,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/helpers/vcr_helper.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          6,
-          6,
-          6,
-          6,
-          null,
-          null,
-          null,
-          null,
-          1,
-          21,
-          753,
-          753,
-          null,
-          null,
-          21,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          21,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/helpers/database_helper.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          13,
-          13,
-          13,
-          13,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/integration/layers/gateway_database_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/layers/gateway_database_spec.rb": {
         "lines": [
           null,
           null,
@@ -3703,7 +2633,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/integration/layers/github_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/layers/github_spec.rb": {
         "lines": [
           null,
           null,
@@ -3786,7 +2716,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/integration/services/add_project_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/services/add_project_spec.rb": {
         "lines": [
           null,
           null,
@@ -3893,7 +2823,95 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/integration/services/appraise_project_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/services/appraise_project_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/integration/services/list_projects_spec.rb": {
         "lines": [
           null,
           null,
@@ -3934,84 +2952,6 @@
           1,
           null,
           null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/integration/services/list_projects_spec.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          3,
-          null,
-          null,
-          1,
-          3,
-          null,
-          null,
-          1,
-          1,
-          3,
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
           null,
           1,
           1,
@@ -4058,7 +2998,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/soa2025-codepraise/spec/tests/unit/gateway_git_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/unit/gateway_git_spec.rb": {
         "lines": [
           null,
           null,
@@ -4089,7 +3029,7 @@
           null
         ]
       },
-      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2024/api-codepraise2024/spec/tests/unit/result_spec.rb": {
+      "/Users/soumyaray/Sync/Dropbox/ossdev/classes/SOA-class/projects/soa2025/api-codepraise-2025/spec/tests/unit/result_spec.rb": {
         "lines": [
           null,
           null,
@@ -4119,6 +3059,6 @@
         ]
       }
     },
-    "timestamp": 1762653068
+    "timestamp": 1763267287
   }
 }
