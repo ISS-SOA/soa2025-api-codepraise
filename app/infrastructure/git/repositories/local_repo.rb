@@ -13,7 +13,7 @@ module CodePraise
     class LocalGitRepo
       ONLY_FOLDERS = '**/'
       FILES_AND_FOLDERS = '**/*'
-      TEXT_FILES = %w[rb py c js java css html slim md yml json txt].join('|')
+      TEXT_FILES = %w[rb py js css html slim md erb].join('|')
       CODE_FILENAME_MATCH = /\.(#{TEXT_FILES})$/
 
       attr_reader :git_repo_path
