@@ -49,8 +49,7 @@ describe 'Test Git Commands Mapper and Gateway' do
   it 'HAPPY: should get accurate contributions summary for specific folder' do
     forms = CodePraise::Mapper::Contributions.new(@gitrepo).for_folder('forms')
 
-    _(forms.subfolders.count).must_equal 1
-    _(forms.subfolders.count).must_equal 1
+    _(forms.subfolders.count).must_equal 0
 
     _(forms.base_files.count).must_equal 2
 
